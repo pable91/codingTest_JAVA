@@ -3,7 +3,7 @@ package com.personal.programmers.level1;
 import java.util.*;
 
 /**
- *  위클리챌린지/직업군 추천하기
+ *  위클리챌린지 - 직업군 추천하기
  */
 
 public class test1 {
