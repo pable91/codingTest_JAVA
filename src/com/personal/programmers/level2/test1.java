@@ -4,7 +4,7 @@ package com.personal.programmers.level2;
  *  위클리챌린지 - 모음사전
  */
 
-class Solution {
+class Solution_1 {
     int answer = 0;
 
     public boolean func(String src, String target){
@@ -45,7 +45,7 @@ class Solution {
 
 public class test1 {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Solution_1 solution = new Solution_1();
         solution.solution("AAAAE");
     }
 }
