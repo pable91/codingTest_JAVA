@@ -35,7 +35,7 @@ class Player {
     }
 }
 
-class Solution {
+class Solution_2 {
     public int[] solution(int[] weights, String[] head2head) {
         int[] answer = new int[weights.length];
 
@@ -91,7 +91,7 @@ class Solution {
 
 public class test2 {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Solution_2 solution = new Solution_2();
         //int[] weights = {50,82,75,129};
         //String[] head2head = {"NLWL","WNLL","LWNW","WWLN"};
 
