@@ -3,14 +3,7 @@ package com.personal.practice.inflearn;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Node {
-    int data;
-    Node lt;
-    Node rt;
-    public Node(int data) {
-        this.data = data;
-    }
-}
+
 
 public class BFS1 {
     Node root;
