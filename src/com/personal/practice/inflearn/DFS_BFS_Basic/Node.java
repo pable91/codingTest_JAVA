@@ -1,4 +1,4 @@
-package com.personal.practice.inflearn;
+package com.personal.practice.inflearn.DFS_BFS_Basic;
 
 public class Node {
     int data;

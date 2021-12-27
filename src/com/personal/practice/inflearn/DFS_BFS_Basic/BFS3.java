@@ -1,4 +1,4 @@
-package com.personal.practice.inflearn;
+package com.personal.practice.inflearn.DFS_BFS_Basic;
 
 // Tree 말단 노드까지의 가장 짧은 경로(BFS로 풀어보기)
 

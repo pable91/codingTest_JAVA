@@ -1,4 +1,4 @@
-package com.personal.practice.inflearn;
+package com.personal.practice.inflearn.DFS_BFS_Basic;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.personal.practice.inflearn;
+package com.personal.practice.inflearn.DFS_BFS_Basic;
 
 
 // 경로 탐색 (인접 리스트)

@@ -1,4 +1,4 @@
-package com.personal.practice.inflearn;
+package com.personal.practice.inflearn.DFS_BFS_Basic;
 
 // 그래프 최단거리(BFS)
 
