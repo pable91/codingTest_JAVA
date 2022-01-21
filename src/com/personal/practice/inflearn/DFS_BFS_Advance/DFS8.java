@@ -2,7 +2,6 @@ package com.personal.practice.inflearn.DFS_BFS_Advance;
 
 // 피자 배달 거리
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -67,3 +66,4 @@ public class DFS8 {
         System.out.println(answer);
     }
 }
+

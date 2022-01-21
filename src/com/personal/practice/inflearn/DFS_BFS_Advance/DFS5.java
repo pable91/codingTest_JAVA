@@ -18,7 +18,7 @@ public class DFS5 {
 
     public void DFS(int L, int sum) {
         if (flag == true) {
-            return ;
+            return;
         }
 
         if (L == n) {
@@ -28,7 +28,6 @@ public class DFS5 {
                 }
                 flag = true;
             }
-
         }
 
         for (int i = 1; i <= n; ++i) {
