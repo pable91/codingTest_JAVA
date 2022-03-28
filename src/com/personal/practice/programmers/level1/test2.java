@@ -1,4 +1,4 @@
-package com.personal.programmers.level1;
+package com.personal.practice.programmers.level1;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.personal.programmers.level2;
+package com.personal.practice.programmers.level2;
 
 /**
  *  위클리챌린지 - 모음사전

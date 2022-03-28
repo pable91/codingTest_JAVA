@@ -1,4 +1,4 @@
-package com.personal.programmers.level2;
+package com.personal.practice.programmers.level2;
 
 /**
  *  DFS/BFS - 타겟 넘버
